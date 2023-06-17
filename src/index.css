@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url('./assets/images/bg.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+   
+}
